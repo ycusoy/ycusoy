@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ycusoy/ycusoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special for you_ ✨ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m YCusoy
+🏢 I work at a night
+🌱 I blog about coding & life: nothing
+🎙 I have several podcasts: isNothing
+🦜 I’m on Twitter https://twitter.com/gembel_abadi1
+🎥 I make a videos https://youtube.com/gembelabadi01
+🔴 I live stream: Never
+📫 How to reach me: https://about.me/ycusoy
+😄 Pronouns: he/him/his
+⚡ Fun fact: I love you
